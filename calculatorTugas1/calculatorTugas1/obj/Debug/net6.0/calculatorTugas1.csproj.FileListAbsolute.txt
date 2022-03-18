@@ -1,0 +1,30 @@
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.exe
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.deps.json
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.runtimeconfig.json
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.pdb
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.csproj.AssemblyReference.cache
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.AssemblyInfoInputs.cache
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.AssemblyInfo.cs
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.csproj.CoreCompileInputs.cache
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\refint\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.pdb
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.genruntimeconfig.cache
+D:\Amikom\Semester 2\Pemrograman\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\ref\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.exe
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.deps.json
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.runtimeconfig.json
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\bin\Debug\net6.0\calculatorTugas1.pdb
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.csproj.AssemblyReference.cache
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.AssemblyInfoInputs.cache
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.AssemblyInfo.cs
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.csproj.CoreCompileInputs.cache
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\refint\calculatorTugas1.dll
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.pdb
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\calculatorTugas1.genruntimeconfig.cache
+D:\Amikom\Semester 2\Pemrograman\Pertemuan 1\calculatorTugas1\calculatorTugas1\obj\Debug\net6.0\ref\calculatorTugas1.dll
